@@ -1,0 +1,5 @@
+com\mycompany\uaspbonoteapp\db\NoteService.class
+com\mycompany\uaspbonoteapp\db\DatabaseStorage.class
+com\mycompany\uaspbonoteapp\Main.class
+com\mycompany\uaspbonoteapp\db\DataStorage.class
+com\mycompany\uaspbonoteapp\db\NoteAppMenu.class
